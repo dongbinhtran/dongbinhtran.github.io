@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "../dongbinhtran.github.io"
 languageCode = "en-US"
 title = "DSRD Statistics website"
 author= "Dong-Binh Tran"
